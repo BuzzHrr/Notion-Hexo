@@ -47,11 +47,11 @@
 
 // Memos Start
 var memo = {
-    host: 'https://memos.chenge.ink',
+    host: 'https://buzzmemos.zeabur.app',
     limit: '10',
     creatorId: '1',
     domId: '#memos',
-    username: '陈源泉',
+    username: 'BUZZ',
     name: '尘歌'
 }
 if (typeof (memos) !== "undefined") {
